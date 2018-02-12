@@ -13,12 +13,6 @@ There are several great guides with a similar goal. Some are limited in scope, w
 * [Python Packages](#python-packages)
 * [Tensorflow](#tensorflow)
 * [OpenBLAS](#openblas)
-* [Common Tools](#common-tools)
-* [Caffe](#caffe)
-* [Theano](#theano)
-* [Keras](#keras)
-* [Torch](#torch)
-* [X2Go](#x2go)
 
 ### Basics
 * First, open a terminal and run the following commands to make sure your OS is up-to-date
