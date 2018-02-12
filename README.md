@@ -100,7 +100,12 @@ There are several great guides with a similar goal. Some are limited in scope, w
 		                                python-pandas python-sklearn python-sympy
         sudo apt-get clean && sudo apt-get autoremove
         rm -rf /var/lib/apt/lists/*
- 
+
+	```shell
+	sudo apt-get install python-pip python-dev build-essential 
+	sudo pip install --upgrade pip 
+	sudo pip install --upgrade virtualenv 
+	```
 
 ### Tensorflow
 * This installs v0.8 with GPU support. Instructions below are from [here](https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html)
@@ -127,5 +132,8 @@ There are several great guides with a similar goal. Some are limited in scope, w
 * Add the path to your LD_LIBRARY_PATH variable
 
         echo 'export LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH' >> ~/.bashrc
+	
+
+
         
 
